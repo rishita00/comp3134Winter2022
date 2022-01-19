@@ -1,0 +1,153 @@
+# https://www.namecheap.com/Domains/Cheap
+
+Everything you need to get your idea online 
+Calling all bargain hunters! Use our coupon to pick up a 99 cent domain 
+and collect everything you need to get your idea online today.
+Discover a variety of hosting plans to suit every budget, and affordable tools to help your website thrive.
+
+
+# https://www.top10.com/Domain_Hosting/Comparison
+
+Web Servers and the Internet
+
+The Internet is nothing more than a large collection of computers attached to a telecommunications network and a set of protocols that establishes the rules for data to be sent and received by them. Most computers are linked to the Internet through a modem that directs traffic to and from a local phone or cable company. An Internet service provider (ISP) directs the incoming and outgoing data through a local hub to regional hubs.
+
+All the data that makes up a website is located on one or more specialized computers known as servers. Servers can be expensive to purchase and maintain, so companies, known as domain hosts or website hosts, lease server resources to subscribers in return for monthly fees. This allows most anyone to create a website that is available to the public on the World Wide Web (WWW), which is the collective network of all websites in the world that can be accessed through the internet.
+
+In order for computers to understand each other, universal codes and protocols have been established. One of the most important of these protocols for websites and domain hosting is hypertext transfer protocol (HTTP). It is this protocol that allows queries to be sent to specific servers so that the websites on those servers can be accessed.
+
+To direct a request for access from a client computer to a website server, a system of names attached to Internet protocol (IP) addresses is in operation. The physical location of the server of a particular website is embedded in the name, which is also known as the uniform resource locator (URL).
+Names and IP Addresses
+
+The first step in acquiring a host is to register a name. These are regulated and maintained by name registrars, which ensure that there is no repetition. The actual registration can be done directly through the registrar but most likely will be done by a third party like a hosting service. They are easily readable by people, but for computers to understand them, domain names have to be linked to binary IP addresses through special servers called domain name servers (DNS). This system allows for a them to be transferred to another server should the webmaster decide to use a different platform.
+Registrars and Website Hosts
+
+The registrar may be the same company as the host, or it may be a totally different company. Most companies will allow customers to perform a name search & register it there. In fact if you choose a package first it is likely to get it for free for one year. Because the equipment required by registrars is so similar, most companies engage in both activities. Many companies marketed as registrars offer domain packages to those that use their name registration services, and other companies marketed as website hosts offer free or discounted registration for subscribers to their packages.
+
+Find a host first or start with a search on a registrar. However, if it is already registered, you can subscribe to nearly any other hosting service. All you have to do is tell the host the names of the servers where the name information is stored.
+Hosting Packages
+
+Several different packages are available from hosting companies. Each package has a different set of features, and some may be more important to you and your website than others, but free domains for one year are common & you shouldn’t accept a package which doesn’t include this. Following are the most common types of packages:
+
+    Free hosting – Some companies offer free service. This service puts several subscribers onto a single server, and the resources of the server are shared between them. Free packages usually have very few features.
+    Shared hosting – Can also be a paid subscription service. Fee-based shared packages provide subscribers with more features than free hosts, and service guarantees may be available. Free names add a lot of value to these cheap packages.
+    Dedicated hosting – Subscribers who want their data to have the highest level of security and who require all the resources of a server can lease private servers that can be accessed and used only by them. These are the most expensive packages, but they provide the most power and flexibility.
+
+Understanding which package will work best for you requires some research. Every domain host provides different features in their offered packages, and prices vary widely.
+
+
+
+#https://www.wix.com/Register-a/Domain-Name
+
+Fold1.png
+Image of a ceramics store website with a custom domain
+Get Online with the Right Domain Name
+
+Choose a custom domain and create a professional website, all in one place.
+Start Now
+Black Browser
+Image of a website with several domain endings
+Secure Domains
+
+Search for and register domains with private domain registration in line with GDPR regulations. Get a matching business email to boost your credibility online.
+Start Now
+Black Browser
+Image of how to add a domain
+Use Existing Domains
+
+Even if you own a domain, you can still take full advantage of Wix. Connect your domain to your wix site, or seamlessly transfer your domain to the Wix platform.
+Start Now
+Black Browser
+Image of a ceramics store website
+Free Web Hosting
+
+Go live online with reliable web hosting to ensure that your site stays up and running. All Wix sites come with automatic hosting, an SSL certificate and advanced security monitoring.
+Start Now
+Black Browser
+Complete Your Online Presence with a Website
+
+Stand out online with leading website creation tools and over 500 designer-made templates.
+Start Now
+Thumbnail 02.png
+Thumbnail 01.png
+Thumbnail 04.png
+Thumbnail 03.png
+Out of gallery
+Look Professional Online with Your Own Domain
+Start Now
+This website was designed with Wix. 
+Privacy Policy
+Terms of Use
+
+
+
+#https://unstoppabledomains.com
+
+Building decentralized digital identities for the world
+
+Use NFT domains as your:
+
+    Universal username across apps and websites
+    Website URL
+    Payment address for wallets
+    and much more!
+ To send cryptocurrency, all you need to know is the recipient’s NFT domain
+
+
+Send bitcoin, ethereum, and any other cryptocurrency with just one domain
+
+
+No more worrying about sending to the wrong address
+No Renewal Fees
+NFT domains are owned not rented. Buy the domain with a one time registration fee and never worry about renewals again.
+
+
+The domain is stored in your wallet, just like a cryptocurrency. No one can move it around other than you.
+
+
+Point your domain to content on a decentralized storage network.   
+
+
+
+#https://ip-lookup.net/domain-lookup.php
+
+By visiting this website, you consent to our use of cookies to measure our audience and offer more relevant social features, content and advertisments   More info
+IP address : Lookup IP address
+Lookup IP address
+
+    Lookup
+    Domain Lookup
+    Tools
+    Documents
+    IP-Suite
+    Contact us
+
+ 
+Domain Lookup
+
+Retrieve the IP address associated with a web site:
+Domain Name:
+Lookup...
+ 
+ 
+ 
+
+ 
+Country Code (ccTLD) Lookup
+
+Get information about the country associated with a ccTLD:
+Country Code:
+Lookup...
+(example: us, uk, fr...)
+
+ 
+
+ 
+Country Lookup
+
+Get information (country code...) for a country:
+Country:
+Lookup...
+ 
+
+ 

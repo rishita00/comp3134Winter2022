@@ -1,0 +1,34 @@
+# ping {host_name}
+
+root@comp3134Winter2022:~# ping howtogeek.com
+PING howtogeek.com (151.101.66.217) 56(84) bytes of data.
+64 bytes from 151.101.66.217 (151.101.66.217): icmp_seq=1 ttl=61 time=1.31 ms
+64 bytes from 151.101.66.217 (151.101.66.217): icmp_seq=2 ttl=61 time=0.472 ms
+64 bytes from 151.101.66.217 (151.101.66.217): icmp_seq=3 ttl=61 time=0.472 ms
+64 bytes from 151.101.66.217 (151.101.66.217): icmp_seq=4 ttl=61 time=0.634 ms
+64 bytes from 151.101.66.217 (151.101.66.217): icmp_seq=5 ttl=61 time=0.799 ms
+64 bytes from 151.101.66.217 (151.101.66.217): icmp_seq=6 ttl=61 time=0.563 ms
+^C
+--- howtogeek.com ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5103ms
+rtt min/avg/max/mdev = 0.472/0.707/1.307/0.290 ms
+
+#ping {host_name} -w {time in seconds}
+
+root@comp3134Winter2022:~# ping howtogeek.com -w 10
+PING howtogeek.com (151.101.194.217) 56(84) bytes of data.
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=1 ttl=61 time=1.19 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=2 ttl=61 time=0.541 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=3 ttl=61 time=0.554 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=4 ttl=61 time=0.530 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=5 ttl=61 time=0.495 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=6 ttl=61 time=0.482 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=7 ttl=61 time=0.541 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=8 ttl=61 time=0.547 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=9 ttl=61 time=0.974 ms
+64 bytes from 151.101.194.217 (151.101.194.217): icmp_seq=10 ttl=61 time=0.668 ms
+
+--- howtogeek.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9161ms
+rtt min/avg/max/mdev = 0.482/0.652/1.192/0.225 ms
+
