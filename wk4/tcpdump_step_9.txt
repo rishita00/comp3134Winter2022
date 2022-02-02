@@ -1,0 +1,62 @@
+00:15:11.762243 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2597544:2597756, ack 1117, win 501, length 212
+00:15:11.762448 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2597756:2597968, ack 1117, win 501, length 212
+00:15:11.762635 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2581992, win 101, length 0
+00:15:11.762635 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2585596, win 87, length 0
+00:15:11.762802 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2597968:2598180, ack 1117, win 501, length 212
+00:15:11.763132 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2598180:2598688, ack 1117, win 501, length 508
+00:15:11.763626 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2598688:2598900, ack 1117, win 501, length 212
+00:15:11.763870 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2598900:2599112, ack 1117, win 501, length 212
+00:15:11.764086 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2599112:2599324, ack 1117, win 501, length 212
+00:15:11.764337 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2599324:2599536, ack 1117, win 501, length 212
+00:15:11.764550 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2599536:2599748, ack 1117, win 501, length 212
+00:15:11.764763 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2599748:2599960, ack 1117, win 501, length 212
+00:15:11.764977 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2599960:2600172, ack 1117, win 501, length 212
+00:15:11.765121 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2600172:2600384, ack 1117, win 501, length 212
+00:15:11.765262 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2600384:2600596, ack 1117, win 501, length 212
+00:15:11.765383 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2600596:2600808, ack 1117, win 501, length 212
+00:15:11.765514 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2600808:2601020, ack 1117, win 501, length 212
+00:15:11.765635 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2601020:2601232, ack 1117, win 501, length 212
+00:15:11.765760 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2601232:2601444, ack 1117, win 501, length 212
+00:15:11.765883 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2601444:2601656, ack 1117, win 501, length 212
+00:15:11.766003 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2601656:2601868, ack 1117, win 501, length 212
+00:15:11.766122 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2601868:2602080, ack 1117, win 501, length 212
+00:15:11.766280 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2602080:2602292, ack 1117, win 501, length 212
+00:15:11.766406 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2602292:2602504, ack 1117, win 501, length 212
+00:15:11.766534 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2602504:2602716, ack 1117, win 501, length 212
+00:15:11.766657 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2602716:2602928, ack 1117, win 501, length 212
+00:15:11.766780 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2602928:2603140, ack 1117, win 501, length 212
+00:15:11.766902 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2603140:2603352, ack 1117, win 501, length 212
+00:15:11.767029 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2603352:2603564, ack 1117, win 501, length 212
+00:15:11.767147 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2603564:2603776, ack 1117, win 501, length 212
+00:15:11.767268 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2603776:2603988, ack 1117, win 501, length 212
+00:15:11.767415 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2603988:2604200, ack 1117, win 501, length 212
+00:15:11.767524 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2594152, win 54, length 0
+00:15:11.767709 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2604200:2604556, ack 1117, win 501, length 356
+00:15:11.767841 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2604556:2604768, ack 1117, win 501, length 212
+00:15:11.767963 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2604768:2604980, ack 1117, win 501, length 212
+00:15:11.768087 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2604980:2605192, ack 1117, win 501, length 212
+00:15:11.768205 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2605192:2605404, ack 1117, win 501, length 212
+00:15:11.768329 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2605404:2605616, ack 1117, win 501, length 212
+00:15:11.768461 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2605616:2605828, ack 1117, win 501, length 212
+00:15:11.768590 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2605828:2606040, ack 1117, win 501, length 212
+00:15:11.768732 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2606040:2606252, ack 1117, win 501, length 212
+00:15:11.768934 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2606252:2606464, ack 1117, win 501, length 212
+00:15:11.769082 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2606464:2606676, ack 1117, win 501, length 212
+00:15:11.769204 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2606676:2606888, ack 1117, win 501, length 212
+00:15:11.769332 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2606888:2607100, ack 1117, win 501, length 212
+00:15:11.769455 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2607100:2607312, ack 1117, win 501, length 212
+00:15:11.769575 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2607312:2607524, ack 1117, win 501, length 212
+00:15:11.769705 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2607524:2607736, ack 1117, win 501, length 212
+00:15:11.769826 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2607736:2607948, ack 1117, win 501, length 212
+00:15:11.774900 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2604980, win 12, length 0
+00:15:11.778802 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2607948, win 0, length 0
+00:15:11.860203 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [P.], seq 1117:1189, ack 2607948, win 0, length 72
+00:15:11.860322 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [.], ack 1189, win 501, length 0
+00:15:11.998336 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [.], ack 1189, win 501, length 0
+00:15:12.010849 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2607948, win 0, length 0
+00:15:12.083927 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [.], ack 2607948, win 1026, length 0
+00:15:12.083927 IP cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855 > comp3134Winter2022.ssh: Flags [P.], seq 1189:1297, ack 2607948, win 1026, length 108
+00:15:12.084020 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [P.], seq 2607948:2609260, ack 1189, win 501, length 1312
+00:15:12.084066 IP comp3134Winter2022.ssh > cpef85e4242d0f2-cmf85e4242d0f0.cpe.net.cable.rogers.com.53855: Flags [.], ack 1297, win 501, length 0
+^Z
+[7]+  Stopped                 tcpdump -i eth0 tcp
