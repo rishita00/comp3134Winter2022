@@ -1,0 +1,65 @@
+root@comp3134Winter2022:~# sudo /etc/init.d/ssh restart
+Restarting ssh (via systemctl): ssh.service.
+root@comp3134Winter2022:~# sudo /etc/ssh/ssh_config restart
+sudo: /etc/ssh/ssh_config: command not found
+root@comp3134Winter2022:~# sudo /etc/init.d/ssh restart
+Restarting ssh (via systemctl): ssh.service.
+root@comp3134Winter2022:~# service mysql start
+root@comp3134Winter2022:~# /etc/init.d/apache2 start
+Starting apache2 (via systemctl): apache2.service.
+root@comp3134Winter2022:~# /etc/init.d/apache2 stop
+Stopping apache2 (via systemctl): apache2.service.
+root@comp3134Winter2022:~# /etc/init.d/apache2 restart
+Restarting apache2 (via systemctl): apache2.service.
+
+#7th step
+root@comp3134Winter2022:~#  ssh rishita00@159.203.60.110 -p 2222
+ssh: connect to host 159.203.60.110 port 2222: Connection refused
+root@comp3134Winter2022:~# ssh rishita00@159.203.60.110 -p 22
+The authenticity of host '159.203.60.110 (159.203.60.110)' can't be established.
+ECDSA key fingerprint is SHA256:manahWN4+24C2lzWafahk+VcLnm+8cnR52JIiN72u6I.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '159.203.60.110' (ECDSA) to the list of known hosts.
+rishita00@159.203.60.110's password:
+Permission denied, please try again.
+rishita00@159.203.60.110's password:
+Permission denied, please try again.
+rishita00@159.203.60.110's password:
+
+local machine :
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh rishita00@159.203.60.110 -p 2222
+ssh: connect to host 159.203.60.110 port 2222: Connection timed out
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh rishita00@159.203.60.110 -p 2222
+ssh: connect to host 159.203.60.110 port 2222: Connection timed out
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh rishita00@159.203.60.110 -p 22
+rishita00@159.203.60.110's password:
+Permission denied, please try again.
+rishita00@159.203.60.110's password:
+Permission denied, please try again.
+rishita00@159.203.60.110's password:
+rishita00@159.203.60.110: Permission denied (publickey,password).
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh rishita00@159.203.60.110 -p 22
+
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh root@159.203.60.110
+ssh: connect to host 159.203.60.110 port 22: Connection refused
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh root@159.203.60.110 -p 2222
+ssh: connect to host 159.203.60.110 port 2222: Connection timed out
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh root@159.203.60.110 -p 2222
+ssh: connect to host 159.203.60.110 port 2222: Connection timed out
+
+rishi@LAPTOP-VG3M31I0 MINGW32 ~
+$ ssh root@159.203.60.110 -p 2222
+ssh: connect to host 159.203.60.110 port 2222: Connection timed out
